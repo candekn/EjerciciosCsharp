@@ -1,0 +1,6 @@
+C:\Users\candelaria.d\source\repos\Ejercicio1\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\candelaria.d\source\repos\Ejercicio1\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\candelaria.d\source\repos\Ejercicio1\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\candelaria.d\source\repos\Ejercicio1\Ejercicio7\obj\Debug\Ejercicio7.csprojAssemblyReference.cache
+C:\Users\candelaria.d\source\repos\Ejercicio1\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\candelaria.d\source\repos\Ejercicio1\Ejercicio7\obj\Debug\Ejercicio7.pdb
